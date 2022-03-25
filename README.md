@@ -1,7 +1,6 @@
 # materialdesign-toolbar
-Basic toolbar implementation
+Implementation of a material design component: Toolbar <br/>
+https://material.io/components/app-bars-top
 
-
-![alt tag](https://user-images.githubusercontent.com/11957858/36636267-a064d158-19c3-11e8-8291-570571ba78ce.png)
-
+<img src="https://user-images.githubusercontent.com/11957858/36636267-a064d158-19c3-11e8-8291-570571ba78ce.png" width="300">
 
